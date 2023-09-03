@@ -104,22 +104,22 @@
   cursor: pointer;
 }
 .card1 {
-  background-image: url(Assets/afterlife.jpg);
+  background-image: url(Assets/Avatar.jpg);
 }
 .card2 {
-  background-image: url(Assets/transformers.jpg);
+  background-image: url(Assets/Spideman.jpg);
 }
 .card3 {
-  background-image: url(Assets/mowgli.jpg);
+  background-image: url(Assets/GostRider.jpg);
 }
 .card4 {
-  background-image: url(Assets/shift.png);
+  background-image: url(Assets/Batman.jpg);
 }
 .card5 {
-  background-image: url(Assets/squidgame.webp);
+  background-image: url(Assets/Transformer.jpg);
 }
 .card6 {
-  background-image: url(Assets/harrypotter.jpg);
+  background-image: url(Assets/Joker.jpg);
 }
 .card:hover {
   transform: translateY(-10px);
